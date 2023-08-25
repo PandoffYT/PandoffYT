@@ -1,8 +1,8 @@
-- 👋 Hey, je suis @PandoffYT
-- 👀 Je suis intéréssé par l'informatique
-- 🌱 Actuellement, j'aprends le python 
-- 💞️ Je veux collaborer avec des dévelopeurs
-- 📫 Comment me contacter ? (discord) pando7243
+- 👋 Hey, i'm  @PandoffYT
+- 👀 I'm actually really interested in technology and all of that
+- 🌱 I'm learning JavaScript
+- 🗣️ French and English, Italian too 
+- 📫 Discord : pando_off
 
 <!---
 PandoffYT/PandoffYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
