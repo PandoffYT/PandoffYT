@@ -1,6 +1,6 @@
 - 👋 Hey, i'm  @PandoffYT
 - 👀 I'm actually really interested in technology and all of that
-- 🌱 I'm learning JavaScript
+- 🌱 I'm learning Python
 - 🗣️ French and English, Italian too 
 - 📫 Discord : pando_off
 
