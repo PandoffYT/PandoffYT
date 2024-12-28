@@ -1,10 +1,8 @@
 - 👋 Hey, i'm  @PandoffYT
-- 👀 I'm actually really interested in technology and all of that
-- 🌱 I'm learning Python
-- 🗣️ French and English, Italian too 
+- 👀 I'm interested in technology, hardware/software
+- 🪓 Messes with Windows sometimes
+- 💔 Can't stop "coding" things in batch (LORD SAVE MEE)
+- 🌱 I'm learning Python, and HTML
+- 🗣️ Native French, English  and ~Italian too
 - 📫 Discord : pando_off
 
-<!---
-PandoffYT/PandoffYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
