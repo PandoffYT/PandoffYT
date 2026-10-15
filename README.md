@@ -12,6 +12,6 @@
 - I'm not too active on Github nowadays because school 😭😭✌️
 
 # My current project is <ins>DataHost</ins>
-#### It's a Database application that handles flows of data for various use cases (right now it's running on top on flask)
+#### It's a Database application that handles flows of data for various use cases (right now it's running underneath a flask app that serves the urls to manipulate data)
 #### But it's badly optimized and it's just blocks of code in a single python file so i'm not gonna be releasing it anytime soon
 
